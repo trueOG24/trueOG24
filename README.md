@@ -7,3 +7,7 @@ I'm begginer in data analysis and looking for some interesting job or projects f
 Database: 
 
 PosgreSQL, MySQL
+
+Data Science:
+
+Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scipy, Math, Phik, Sklearn, Tableau
