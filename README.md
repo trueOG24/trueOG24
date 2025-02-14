@@ -6,7 +6,7 @@ Data analytics attracted me with the opportunity to use data for making informed
 
 **Database:** 
 
-PosgreSQL, ClickHouse
+MySQL, PosgreSQL, ClickHouse
 
 **Data Science:**
 
